@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@openzeppelin/contracts-upgradeable": "^4.8.3",
+    "@openzeppelin/hardhat-defender": "^1.8.2",
+    "@openzeppelin/hardhat-upgrades": "^1.26.0",
+    "arb-shared-dependencies": "^1.0.0",
+    "hardhat": "^2.14.0",
+    "hardhat-deploy": "^0.11.29",
+    "solt": "^0.0.10"
+  }
+}
